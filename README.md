@@ -1,7 +1,7 @@
-<em> # Conversor de Moneda </em>
+<em> ## Conversor de Moneda </em>
 
 
-<em> Funcionalidad </em>
+<em> # Funcionalidad </em>
 
 •	Permite convertir entre diferentes monedas.
 
