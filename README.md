@@ -14,5 +14,5 @@
 ## Instalacion
 
 1. Clona el repositorio
-2. Ejecuta `^npm install` para instalar las dependencias
+2. Ejecuta `npm install` para instalar las dependencias
 3. 
