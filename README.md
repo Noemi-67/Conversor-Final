@@ -1,4 +1,4 @@
-<em> ### Bienvenido a Mi proyecto: Conversor de monedas </em>
+<em> ### Bienvenida/o a Mi proyecto: Conversor de monedas </em>
 
 
 <em> # Funcionalidad </em>
